@@ -1,2 +1,3 @@
 # Nmap diff Cron
-Script for nmap diff and email alert.
+
+Script for diff nmap and email alerting
